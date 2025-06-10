@@ -64,7 +64,7 @@ const TaskForm: React.FC<TaskFormProps> = ({ onClose }) => {
 
   const categories = [
     'Mathematics', 'Science', 'Literature', 'History', 'Programming',
-    'Languages', 'Art', 'Music', 'Research', 'Project Work', 'Other'
+    'GS/GK', 'English', 'Music', 'Research', 'Reasoning', 'Other'
   ];
 
   return (
