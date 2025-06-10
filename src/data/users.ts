@@ -10,24 +10,24 @@ export const USERS: User[] = [
   },
   {
     id: 'user2',
-    username: 'bob_learner',
-    password: 'learn456',
+    username: 'aditi',
+    password: 'aditi123',
     role: 'user',
-    name: 'Bob Smith'
+    name: 'Aditi Dhiman'
   },
   {
     id: 'user3',
-    username: 'carol_scholar',
-    password: 'scholar789',
+    username: 'neeraj',
+    password: 'neeraj123',
     role: 'user', 
-    name: 'Carol Davis'
+    name: 'Neeraj Kumar'
   },
   {
     id: 'user4',
-    username: 'david_student',
+    username: 'govt_student',
     password: 'student101',
     role: 'user',
-    name: 'David Wilson'
+    name: 'Govt Student'
   },
   {
     id: 'admin1',
